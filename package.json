@@ -1,0 +1,22 @@
+{
+  "name": "on-the-go-courier-management-system",
+  "version": "1.0.0",
+  "description": "On-the-Go Courier Management System - Full-stack Web Application",
+  "scripts": {
+    "backend": "cd backend && npm run dev",
+    "frontend": "cd frontend && npm run dev",
+    "db:migrate": "cd backend && npm run db:migrate",
+    "db:seed": "cd backend && npm run db:seed"
+  },
+  "keywords": [
+    "courier",
+    "logistics",
+    "nextjs",
+    "react",
+    "nodejs",
+    "postgresql",
+    "fullstack"
+  ],
+  "author": "",
+  "license": "ISC"
+}
